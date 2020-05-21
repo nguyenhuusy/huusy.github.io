@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/huusy.github.io/static/css/main.f8b56f19.chunk.css",
-    "main.js": "/huusy.github.io/static/js/main.b15468d5.chunk.js",
-    "main.js.map": "/huusy.github.io/static/js/main.b15468d5.chunk.js.map",
-    "runtime-main.js": "/huusy.github.io/static/js/runtime-main.a4d26869.js",
-    "runtime-main.js.map": "/huusy.github.io/static/js/runtime-main.a4d26869.js.map",
-    "static/js/2.d2039577.chunk.js": "/huusy.github.io/static/js/2.d2039577.chunk.js",
-    "static/js/2.d2039577.chunk.js.map": "/huusy.github.io/static/js/2.d2039577.chunk.js.map",
-    "index.html": "/huusy.github.io/index.html",
-    "precache-manifest.6295e44143e6df7f8d27142fb72fa947.js": "/huusy.github.io/precache-manifest.6295e44143e6df7f8d27142fb72fa947.js",
-    "service-worker.js": "/huusy.github.io/service-worker.js",
-    "static/css/main.f8b56f19.chunk.css.map": "/huusy.github.io/static/css/main.f8b56f19.chunk.css.map",
-    "static/js/2.d2039577.chunk.js.LICENSE": "/huusy.github.io/static/js/2.d2039577.chunk.js.LICENSE"
+    "main.css": "/nguyenhuusy/feproject.git/static/css/main.f8b56f19.chunk.css",
+    "main.js": "/nguyenhuusy/feproject.git/static/js/main.b90711be.chunk.js",
+    "main.js.map": "/nguyenhuusy/feproject.git/static/js/main.b90711be.chunk.js.map",
+    "runtime-main.js": "/nguyenhuusy/feproject.git/static/js/runtime-main.fa5b69c8.js",
+    "runtime-main.js.map": "/nguyenhuusy/feproject.git/static/js/runtime-main.fa5b69c8.js.map",
+    "static/js/2.d2039577.chunk.js": "/nguyenhuusy/feproject.git/static/js/2.d2039577.chunk.js",
+    "static/js/2.d2039577.chunk.js.map": "/nguyenhuusy/feproject.git/static/js/2.d2039577.chunk.js.map",
+    "index.html": "/nguyenhuusy/feproject.git/index.html",
+    "precache-manifest.f384635a143236344789f868b4027d8d.js": "/nguyenhuusy/feproject.git/precache-manifest.f384635a143236344789f868b4027d8d.js",
+    "service-worker.js": "/nguyenhuusy/feproject.git/service-worker.js",
+    "static/css/main.f8b56f19.chunk.css.map": "/nguyenhuusy/feproject.git/static/css/main.f8b56f19.chunk.css.map",
+    "static/js/2.d2039577.chunk.js.LICENSE": "/nguyenhuusy/feproject.git/static/js/2.d2039577.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4d26869.js",
+    "static/js/runtime-main.fa5b69c8.js",
     "static/js/2.d2039577.chunk.js",
     "static/css/main.f8b56f19.chunk.css",
-    "static/js/main.b15468d5.chunk.js"
+    "static/js/main.b90711be.chunk.js"
   ]
 }
