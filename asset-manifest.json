@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nguyenhuusy/feproject.git/static/css/main.f8b56f19.chunk.css",
-    "main.js": "/nguyenhuusy/feproject.git/static/js/main.b90711be.chunk.js",
-    "main.js.map": "/nguyenhuusy/feproject.git/static/js/main.b90711be.chunk.js.map",
-    "runtime-main.js": "/nguyenhuusy/feproject.git/static/js/runtime-main.fa5b69c8.js",
-    "runtime-main.js.map": "/nguyenhuusy/feproject.git/static/js/runtime-main.fa5b69c8.js.map",
-    "static/js/2.d2039577.chunk.js": "/nguyenhuusy/feproject.git/static/js/2.d2039577.chunk.js",
-    "static/js/2.d2039577.chunk.js.map": "/nguyenhuusy/feproject.git/static/js/2.d2039577.chunk.js.map",
-    "index.html": "/nguyenhuusy/feproject.git/index.html",
-    "precache-manifest.f384635a143236344789f868b4027d8d.js": "/nguyenhuusy/feproject.git/precache-manifest.f384635a143236344789f868b4027d8d.js",
-    "service-worker.js": "/nguyenhuusy/feproject.git/service-worker.js",
-    "static/css/main.f8b56f19.chunk.css.map": "/nguyenhuusy/feproject.git/static/css/main.f8b56f19.chunk.css.map",
-    "static/js/2.d2039577.chunk.js.LICENSE": "/nguyenhuusy/feproject.git/static/js/2.d2039577.chunk.js.LICENSE"
+    "main.css": "/feproject/static/css/main.f8b56f19.chunk.css",
+    "main.js": "/feproject/static/js/main.a0f487ce.chunk.js",
+    "main.js.map": "/feproject/static/js/main.a0f487ce.chunk.js.map",
+    "runtime-main.js": "/feproject/static/js/runtime-main.1e6fc2ca.js",
+    "runtime-main.js.map": "/feproject/static/js/runtime-main.1e6fc2ca.js.map",
+    "static/js/2.d2039577.chunk.js": "/feproject/static/js/2.d2039577.chunk.js",
+    "static/js/2.d2039577.chunk.js.map": "/feproject/static/js/2.d2039577.chunk.js.map",
+    "index.html": "/feproject/index.html",
+    "precache-manifest.70138f4e13083effb066912abfaf48b2.js": "/feproject/precache-manifest.70138f4e13083effb066912abfaf48b2.js",
+    "service-worker.js": "/feproject/service-worker.js",
+    "static/css/main.f8b56f19.chunk.css.map": "/feproject/static/css/main.f8b56f19.chunk.css.map",
+    "static/js/2.d2039577.chunk.js.LICENSE": "/feproject/static/js/2.d2039577.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa5b69c8.js",
+    "static/js/runtime-main.1e6fc2ca.js",
     "static/js/2.d2039577.chunk.js",
     "static/css/main.f8b56f19.chunk.css",
-    "static/js/main.b90711be.chunk.js"
+    "static/js/main.a0f487ce.chunk.js"
   ]
 }
